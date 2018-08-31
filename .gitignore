@@ -48,5 +48,6 @@ bin
 */obj
 bin/*
 obj/*
+/obj/Debug/
 .vs/
 /.vs/config/applicationhost.config
