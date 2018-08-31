@@ -49,6 +49,11 @@ bin
 bin/*
 obj/*
 /obj/Debug/
+/obj/Debug
+/obj/Debug/*
+Debug/
+Debug
+*/Debug
 .vs/
 /.vs/config/applicationhost.config
 Clienting.Api/obj/Debug/netcoreapp2.1/Clienting.Api.assets.cache
