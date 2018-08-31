@@ -51,3 +51,6 @@ obj/*
 /obj/Debug/
 .vs/
 /.vs/config/applicationhost.config
+Clienting.Api/obj/Debug/netcoreapp2.1/Clienting.Api.assets.cache
+Clienting.Domain/obj/Debug/netstandard2.0/Clienting.Domain.assets.cache 
+Clienting.Infrustructure/obj/Debug/netstandard2.0/Clienting.Infrustructure.assets.cache
