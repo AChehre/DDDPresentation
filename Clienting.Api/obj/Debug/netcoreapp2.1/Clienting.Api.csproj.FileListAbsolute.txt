@@ -1,0 +1,17 @@
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Api.deps.json
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Api.runtimeconfig.json
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Api.runtimeconfig.dev.json
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Api.dll
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Api.pdb
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Domain.dll
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\bin\Debug\netcoreapp2.1\Clienting.Domain.pdb
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.csprojAssemblyReference.cache
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.RazorAssemblyInfo.cache
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.RazorAssemblyInfo.cs
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.AssemblyInfoInputs.cache
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.AssemblyInfo.cs
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.csproj.CopyComplete
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.dll
+C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Api\obj\Debug\netcoreapp2.1\Clienting.Api.pdb
