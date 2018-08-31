@@ -40,9 +40,11 @@ Thumbs.db
 # Project Files #
 .idea
 packages
-src/bin
-src/obj
-ClientService.Test/bin
-ClientService.Test/obj
+bin/
+obj/
+obj
+bin
+*/bin
+*/obj
 .vs/
 /.vs/config/applicationhost.config
