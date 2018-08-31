@@ -1,8 +1,0 @@
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\bin\Debug\netstandard2.0\Clienting.Domain.deps.json
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\bin\Debug\netstandard2.0\Clienting.Domain.dll
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\bin\Debug\netstandard2.0\Clienting.Domain.pdb
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\obj\Debug\netstandard2.0\Clienting.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\obj\Debug\netstandard2.0\Clienting.Domain.AssemblyInfoInputs.cache
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\obj\Debug\netstandard2.0\Clienting.Domain.AssemblyInfo.cs
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\obj\Debug\netstandard2.0\Clienting.Domain.dll
-C:\Users\Hooman\Documents\Programming\ElektraLabManagement\Clienting.Domain\obj\Debug\netstandard2.0\Clienting.Domain.pdb
