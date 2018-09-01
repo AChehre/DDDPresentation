@@ -24,7 +24,7 @@ namespace Clienting.Api.Controllers
             AssociateService = associateService;
         }
 
-        //[HttpPost("associates/{associateId}/clients/{clientId}")]
+        [HttpPost("associates/{associateId}/clients/{clientId}")]
         public IActionResult AssociateWorksForClient(string associateId, string clientId)
         {
             try
