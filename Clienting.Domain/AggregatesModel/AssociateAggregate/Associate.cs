@@ -36,13 +36,13 @@ namespace Clienting.Domain.AggregatesModel.AssociateAggregate
         {
             InActiveClients = InActiveClients.Where(cl => cl != client.ClientId).ToList();
             ActiveClients.Add(client.ClientId);
-            OnAssociateReturnBackToClient(this, new AssociateReturnedBackToClient(AssociateId, client.ClientId));
+            OnAssociateReturnBackToClient?.Invoke(this, new AssociateReturnedBackToClient(AssociateId, client.ClientId));
         }
 
         private void StartWorkingAtClient(Client client)
         {
             ActiveClients.Add(client.ClientId);
-            OnAssociateStartWorkingAtClient(this, new AssociateStartedWorkingAtClient(AssociateId, client.ClientId));
+            OnAssociateStartWorkingAtClient?.Invoke(this, new AssociateStartedWorkingAtClient(AssociateId, client.ClientId));
         }
     }
 }
