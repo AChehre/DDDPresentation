@@ -13,9 +13,9 @@ namespace Clienting.Api.Controllers
     [ApiController]
     public class AssociateApi : ControllerBase
     {
-        private IAssociateRepository AssociateRepository { get; set; }
-        private IClientRepository ClientRepository { get; set; }
-        private IAssociateService AssociateService { get; set; }
+        private IAssociateRepository AssociateRepository;
+        private IClientRepository ClientRepository;
+        private IAssociateService AssociateService;
 
         public AssociateApi(IAssociateRepository associateRepository, IClientRepository clientRepository, IAssociateService associateService)
         {

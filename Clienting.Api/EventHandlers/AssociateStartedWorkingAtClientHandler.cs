@@ -6,7 +6,7 @@ namespace Clienting.Api.EventHandlers
 {
     public class AssociateStartedWorkingAtClientHandler : IEventHandler<AssociateStartedWorkingAtClient>
     {
-        private IAssociateRepository AssociateRepository { get; set; }
+        private IAssociateRepository AssociateRepository;
 
         public AssociateStartedWorkingAtClientHandler(IAssociateRepository associateRepository)
         {

@@ -6,7 +6,7 @@ namespace Clienting.Api.EventHandlers
 {
     public class AssociateReturnedBackToClientHandler : IEventHandler<AssociateReturnedBackToClient>
     {
-        private IAssociateRepository AssociateRepository { get; set; }
+        private IAssociateRepository AssociateRepository;
 
         public AssociateReturnedBackToClientHandler(IAssociateRepository associateRepository)
         {

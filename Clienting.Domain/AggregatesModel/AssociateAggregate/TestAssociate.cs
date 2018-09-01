@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 using Clienting.Domain.AggregatesModel.ClientAggregate;
+using Xunit;
 
 namespace Clienting.Domain.AggregatesModel.AssociateAggregate
 {
     public class TestAssociate
     {
+        [Fact]
         public void IfAssociateUsedToWorkAtClientSheCouldReturnBackToClient()
         {
             var clientId = "CLNT_134679";
@@ -22,6 +24,7 @@ namespace Clienting.Domain.AggregatesModel.AssociateAggregate
             //do assertion
         }
 
+        [Fact]
         public void IfAssociateHasntWorkedAtClientSheCouldStartWorkingAtClient()
         {
             var clientId = "CLNT_1346790";
@@ -37,5 +40,7 @@ namespace Clienting.Domain.AggregatesModel.AssociateAggregate
             associate.AssociateWorkForClient(client);
             //do assertion
         }
+
+        private Associate GetAssociateInstance
     }
 }
