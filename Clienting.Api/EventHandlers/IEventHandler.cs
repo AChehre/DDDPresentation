@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Clienting.Api.EventHandlers
+﻿namespace Clienting.Api.EventHandlers
 {
     public interface IEventHandler<T>
     {

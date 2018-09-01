@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Clienting.Domain.AggregatesModel.ClientAggregate;
+﻿using Clienting.Domain.AggregatesModel.ClientAggregate;
 
 namespace Clienting.Infrustructure.Repositories
 {

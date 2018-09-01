@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Clienting.Domain.AggregatesModel.AssociateAggregate.Events
+﻿namespace Clienting.Domain.AggregatesModel.AssociateAggregate.Events
 {
     public class AssociateStartedWorkingAtClient
     {

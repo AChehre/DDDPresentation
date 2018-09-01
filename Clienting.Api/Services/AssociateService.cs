@@ -2,10 +2,6 @@
 using Clienting.Domain.AggregatesModel.AssociateAggregate;
 using Clienting.Domain.AggregatesModel.AssociateAggregate.Events;
 using Clienting.Domain.AggregatesModel.ClientAggregate;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Clienting.Api.Services
 {
