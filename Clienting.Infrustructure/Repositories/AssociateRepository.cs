@@ -17,12 +17,12 @@ namespace Clienting.Infrustructure.Repositories
 
         public void CreateAssociateClient(string associateId, string clientId)
         {
-            throw new NotImplementedException();
+            
         }
 
         public void ReactiveAssociateOfClient(string associateId, string clientId)
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
